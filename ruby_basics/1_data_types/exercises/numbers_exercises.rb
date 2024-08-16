@@ -42,3 +42,5 @@ def odd?(number)
   # return true if the number is odd (hint: use integer's odd? method)
   return number.odd?
 end
+
+#Has it come to this? Original Pirate Material... you're listening to the streets lockdown your aerials... 
